@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "subjectValue": "The solar wind ",
+      "userName": "Alexandru",
+      "subjectContent": "how much dangerous ?",
+      "subjectDate": "21.11.2022, 00:01:26",
+      "comment": [
+        {
+          "commentContent": "If solar wind speeds are high enough geomagnetic storms can be triggered which can lead to auroras expanding closer to the equator than is possible during calmer space weather conditions",
+          "subjectDate": "21.11.2022, 00:02:37",
+          "userName": "Daniele",
+          "id": 21.418293936861946
+        },
+        {
+          "commentContent": "This flow of particles, called the “solar wind,” has an enormous impact on our lives. It protects us from stray cosmic rays coming from elsewhere in the galaxy—but the effects of storms on the sun's surface can also affect our telecommunications networks",
+          "subjectDate": "21.11.2022, 00:05:25",
+          "userName": "Anonymous",
+          "id": 21.54071098176387
+        }
+      ],
+      "id": 21.334296664151044
+    }
+  ],
+  "users": [
+    {
+      "username": "alex",
+      "password": "alex",
+      "password2": "alex",
+      "email": "alex",
+      "id": 20.15445365087714
+    }
+  ]
+}
